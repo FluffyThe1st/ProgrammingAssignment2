@@ -1,5 +1,5 @@
 ## This functions together calculate the inverse matrix of a given matrix,
-## caches the inverse matrix and return it.
+## cache the inverse matrix and return it.
 
 
 ## This function creates a special "matrix" object that can cache its inverse
